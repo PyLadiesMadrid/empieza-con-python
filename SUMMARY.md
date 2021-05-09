@@ -1,4 +1,4 @@
-# Tabla de contenidos
+# Agenda de trabajo
 
 * [Introducción](README.md)
 
